@@ -5,7 +5,7 @@ account: desarrolloaplicaciones
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 4133196
-bundleId: 4599691
+bundleId: 4599737
 url: https://desarrolloaplicaciones.shinyapps.io/videowall_english_version/
-when: 1621024360.40503
-lastSyncTime: 1621024360.40503
+when: 1621025243.69221
+lastSyncTime: 1621025243.69221

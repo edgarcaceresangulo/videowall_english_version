@@ -73,7 +73,7 @@ seriedetiempo <- function(bd, temporalidad, variable, tb){
     fun_scale_x(cond = temporalidad) +
     fun_hline(cond = temporalidad) +
     labs(title = tituloprincipal,
-         x = TeX("Fecha"), 
+         x = TeX("Date"), 
          y = tituloejey) +
     theme_minimal() +
     theme(
